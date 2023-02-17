@@ -11,7 +11,7 @@ Simple webpage made with html, css.
 
 ## Screenshots
 
-![Home page](![image](https://user-images.githubusercontent.com/110538419/219626545-4bc843ec-da06-4f33-b79a-9ec59ed2dcbe.png)
+![Home page](https://user-images.githubusercontent.com/110538419/219626545-4bc843ec-da06-4f33-b79a-9ec59ed2dcbe.png)
 )
 
 ## Future
