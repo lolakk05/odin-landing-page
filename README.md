@@ -19,4 +19,4 @@ Mb in future i made this site responsive but not now.
 
 ## Photos
 
-![Pexels](https://www.pexels.com)
+[Pexels](https://www.pexels.com)
